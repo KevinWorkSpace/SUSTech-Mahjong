@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\lenovo\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\lenovo\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Card Game.1235395437.00" t="ExcludeRecursive" />
+    <e p="E:\Unity Project\Card Game" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Audio" t="Include">
+            <e p="AudioBase.cs" t="Include" />
+            <e p="AudioManager.cs" t="Include" />
+          </e>
+          <e p="Character" t="Include">
+            <e p="CharacterBase.cs" t="Include" />
+            <e p="CharacterManager.cs" t="Include" />
+          </e>
+          <e p="Framework" t="Include">
+            <e p="AreaCode.cs" t="Include" />
+            <e p="ManagerBase.cs" t="Include" />
+            <e p="MonoBase.cs" t="Include" />
+            <e p="MsgCenter.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="CardColor.cs" t="Include" />
+            <e p="CardCtrl.cs" t="Include" />
+            <e p="CardDto.cs" t="Include" />
+            <e p="CardWeight.cs" t="Include" />
+            <e p="CreatePanel.cs" t="Include" />
+            <e p="InfoPanel.cs" t="Include" />
+            <e p="LibraryModel.cs" t="Include" />
+            <e p="MatchPanel.cs" t="Include" />
+            <e p="MyPlayerCtrl.cs" t="Include" />
+            <e p="OtherPlayerCtrl.cs" t="Include" />
+            <e p="PlayPanel.cs" t="Include" />
+            <e p="RegistPanel.cs" t="Include" />
+            <e p="RulePanel.cs" t="Include" />
+            <e p="SetPanel.cs" t="Include" />
+            <e p="StartPanel.cs" t="Include" />
+            <e p="UIBase.cs" t="Include" />
+            <e p="UIEvent.cs" t="Include" />
+            <e p="UIManager.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Card Game.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
